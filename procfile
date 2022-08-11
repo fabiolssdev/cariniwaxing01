@@ -1,0 +1,1 @@
+web gunicorn mystudio.wsgi --log-file -
